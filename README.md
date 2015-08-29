@@ -6,3 +6,4 @@ git add: uploads file to ready to be committed
 git commit: takes snapshot of my current
 git push origin master
 git checkout -b "branch": make a new branch
+..
